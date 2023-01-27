@@ -1,2 +1,8 @@
 #MacOS files
 **/.DS_Store
+
+#Virtual Environment 
+venv/**
+
+#Model weights .h5 files
+weights/**
